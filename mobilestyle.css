@@ -1,0 +1,5 @@
+header { background: pink; width:100%; height: 100px; display:flex; flex-direction:collumn; flexc-wrap: wpar }
+section { background: red; width:70%; height: 100px; float: left; display:flex; flex-direction:collumn; flexc-wrap: wpar }
+aside { background: purple; width:30%; height: 100px; float: right; display:flex; flex-direction:collumn; flexc-wrap: wpar }
+footer { background: cyan; width:100%; height: 100px; clear: both; display:flex; flex-direction:collumn; flexc-wrap: wpar }
+p { font: 14px Arial, sans-serif; color: khaki; text-align: center; display:flex; flex-direction:collumn; flexc-wrap: wpar }
